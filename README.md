@@ -2,11 +2,7 @@
 
 A collection of Python scripts that generate greyscale BMP images for the **Xteink X4** e-ink display running the **[CrossPoint firmware](https://github.com/crosspoint-reader/crosspoint-reader)**, and automatically upload them to the device over Wi-Fi. (Code written by Claude 4.6 Sonnet)
 
-![Weekly Calendar](docs/calendar.bmp)
-![Weather Forecast](docs/weather.bmp)
-![Daily Agenda](docs/agenda.bmp)
-![Habit Tracker](docs/habits.bmp)
-
+![about](docs/about.PNG)
 ---
 
 ## Screens
