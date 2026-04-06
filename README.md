@@ -142,19 +142,6 @@ Supports navigating into subfolders before selecting files to delete.
 
 ---
 
-## Auto-updating on Windows
-
-To have the scripts run automatically every morning, use **Task Scheduler**:
-
-1. Open Task Scheduler → **Create Basic Task**
-2. Set the trigger to **Daily** at your preferred time
-3. Set the action to **Start a program**
-4. Program: `python`
-5. Arguments: `run_all.py`
-6. Start in: the folder where your scripts live
-
----
-
 ## File structure
 
 ```
