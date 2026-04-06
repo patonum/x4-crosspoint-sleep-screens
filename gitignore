@@ -1,0 +1,19 @@
+# Google auth — never commit these
+credentials.json
+token.json
+
+# Personal habit data
+habits.json
+
+# Generated BMP files
+output/
+*.bmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
